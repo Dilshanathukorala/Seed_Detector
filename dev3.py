@@ -417,3 +417,5 @@ if __name__ == "__main__":
 
     fafa()
     sys.exit(app.exec_())
+    
+    #this is not work without camera
